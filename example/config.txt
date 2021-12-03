@@ -1,0 +1,2 @@
+Prefix plugins/LEfSeRemoveZero/example
+Plugin LEfSeRemoveZero inputfile output.lefse.res outputfile output.lefse.nozero.res
